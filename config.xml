@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.proyectofinal-jllp"
+version = "1.0.0">
+
+<name>PhoneGap - Jorge Luis</name>
+
+<description>
+Proyecto Final - Aplicaciones de comercio electronico - Jorge Luis Lopez Perez
+</description>
+
+<author href="https://example.com" email="jorjayszx21@gmail.com">
+Jorge Luis Lopez
+</author>
+
+<icon src="images/buildbot-hero.png" gap:density="ldpi" gap:platform="android" />
+<icon src="images/buildbot-hero.png" gap:density="mdpi" gap:platform="android" />
+<icon src="images/buildbot-hero.png" gap:density="hdpi" gap:platform="android" />
+<icon src="images/buildbot-hero.png" gap:density="xhdpi" gap:platform="android" />
+
+</widget>
